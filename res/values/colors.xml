@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 下拉刷新 -->
+    <color name="pulldown_grey">#DBDBDB</color>
+    <color name="font_text_color">#75818f</color>
+
+</resources>

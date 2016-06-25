@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RefreshScrollView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- 下拉更新 -->
+    <string name="refresh_header_loading">载入中&#8230;</string>
+    <string name="refresh_footer_loading">加载中&#8230;</string>
+    <string name="refresh_pulldown_to_refresh">下拉可以刷新</string>
+    <string name="refresh_release_to_refresh">松开立即刷新</string>
+    <string name="refresh_update_time">上次刷新时间：</string>
+    <string name="refresh_load_more">点击查看更多</string>
+    <string name="contentDescription">contentDescription</string>
+
+</resources>
